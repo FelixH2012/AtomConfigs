@@ -1,0 +1,324 @@
+{
+  "AutoGapple": {
+    "Status": false,
+    "Values": {}
+  },
+  "BowAimbot": {
+    "Status": true,
+    "Values": {
+      "Mobs": true,
+      "Animals": true,
+      "Invisibles": false,
+      "players": true,
+      "villagers": true,
+      "movementFix": false,
+      "a3Fix": true
+    }
+  },
+  "KillAura": {
+    "Status": false,
+    "Values": {
+      "Mobs": true,
+      "Animals": true,
+      "raycast": false,
+      "Invisibles": false,
+      "players": true,
+      "villagers": true,
+      "rotations": true,
+      "necessaryRotation": false,
+      "smooth": true,
+      "throughWalls": false,
+      "blockRayCast": true,
+      "outrange": true,
+      "predict": true,
+      "fakeBlock": false,
+      "renderYawOffset": true,
+      "particle": false,
+      "lockview": false,
+      "checkFOV": true,
+      "timeShifting": false,
+      "newGenPVP": false,
+      "setTargetRange": 3.6,
+      "realRange": 3.3,
+      "CPS": 4.0,
+      "GCDFix": true,
+      "gcdA3": true,
+      "FOV": 90.0,
+      "smoothing": 8.0,
+      "movementFix": false,
+      "critBehindTarget": false,
+      "silentMoveFix": false,
+      "rotationToJump": true,
+      "RaycastType": "ClickMouse"
+    }
+  },
+  "NoVelocity": {
+    "Status": true,
+    "Values": {
+      "VelocityMode": "Reverse",
+      "ReverseMode": "OldAAC"
+    }
+  },
+  "PathAura": {
+    "Status": false,
+    "Values": {
+      "cps": 4.0
+    }
+  },
+  "AntiForceCloseGUI": {
+    "Status": true,
+    "Values": {}
+  },
+  "ClickGUI": {
+    "Status": false,
+    "Values": {
+      "Mode": "Main"
+    }
+  },
+  "Interface": {
+    "Status": true,
+    "Values": {
+      "Color": -13422505,
+      "fontMode": "SUIDDefault",
+      "suffix": false,
+      "textShadow": true
+    }
+  },
+  "NoHurtCam": {
+    "Status": true,
+    "Values": {}
+  },
+  "Notifications": {
+    "Status": true,
+    "Values": {
+      "NotificationStyle": "Right"
+    }
+  },
+  "AutoRespawn": {
+    "Status": true,
+    "Values": {}
+  },
+  "NoClip": {
+    "Status": false,
+    "Values": {}
+  },
+  "FastStairs": {
+    "Status": false,
+    "Values": {}
+  },
+  "Fly": {
+    "Status": false,
+    "Values": {
+      "FlyMode": "HydraCraft"
+    }
+  },
+  "LongJump": {
+    "Status": false,
+    "Values": {}
+  },
+  "ReverseStep": {
+    "Status": false,
+    "Values": {}
+  },
+  "Speed": {
+    "Status": false,
+    "Values": {
+      "SpeedMode": "Legit"
+    }
+  },
+  "Sprint": {
+    "Status": true,
+    "Values": {}
+  },
+  "Step": {
+    "Status": false,
+    "Values": {
+      "StepHeight": 1.0
+    }
+  },
+  "TargetStrafe": {
+    "Status": false,
+    "Values": {
+      "radius": 48.2,
+      "speed": 2.0
+    }
+  },
+  "Teleport": {
+    "Status": false,
+    "Values": {}
+  },
+  "AutoArmor": {
+    "Status": true,
+    "Values": {
+      "Delay": 0.0,
+      "noInv": false
+    }
+  },
+  "Crasher": {
+    "Status": false,
+    "Values": {
+      "Crasher": "Illegal Rotations"
+    }
+  },
+  "Disabler": {
+    "Status": false,
+    "Values": {
+      "Type": "CubecraftLirium"
+    }
+  },
+  "FakeLag": {
+    "Status": false,
+    "Values": {
+      "delay": 0.0
+    }
+  },
+  "InventoryManager": {
+    "Status": true,
+    "Values": {
+      "openInventory": true,
+      "throwAxe": true,
+      "instant": false,
+      "delay": 0.0
+    }
+  },
+  "InventoryMove": {
+    "Status": true,
+    "Values": {}
+  },
+  "NoFall": {
+    "Status": false,
+    "Values": {
+      "NoFallMode": "Vanilla"
+    }
+  },
+  "NoRotateSet": {
+    "Status": false,
+    "Values": {
+      "SpoofRotation": true
+    }
+  },
+  "Regen": {
+    "Status": false,
+    "Values": {}
+  },
+  "Scaffold": {
+    "Status": false,
+    "Values": {
+      "PlacementCPS": 16.2,
+      "smooth": true,
+      "raytrace": false,
+      "sneak": false,
+      "sprint": false,
+      "rotations": true,
+      "smoothing": 8.0,
+      "GCDFix": true,
+      "gcdA3": true,
+      "motionModify": true,
+      "silentSneak": false,
+      "motionModifyX": 0.7,
+      "motionModifyZ": 0.7,
+      "resetRotations": false,
+      "necessaryRotation": true,
+      "sneakInAir": true,
+      "movementFix": false,
+      "jumpFix": true,
+      "silent": true,
+      "sameY": false,
+      "smartSameYSneak": false
+    }
+  },
+  "Stealer": {
+    "Status": true,
+    "Values": {
+      "autoClose": true,
+      "instant": false,
+      "StartDelay": 117.6,
+      "Delay": 0.0,
+      "smart": true,
+      "checkRealChest": true
+    }
+  },
+  "Blur": {
+    "Status": true,
+    "Values": {
+      "BlurType": "Kawase",
+      "KawaseIterations": 4.5,
+      "KawaseOffset": 4.6,
+      "bokehBlurRadius": 28.8
+    }
+  },
+  "Cape": {
+    "Status": true,
+    "Values": {
+      "Cape": "Clouds"
+    }
+  },
+  "ChestESP": {
+    "Status": true,
+    "Values": {
+      "ChestESPColor": -65536
+    }
+  },
+  "DisplayESP": {
+    "Status": true,
+    "Values": {}
+  },
+  "DropShadow": {
+    "Status": true,
+    "Values": {
+      "radius": 48.2
+    }
+  },
+  "ESP": {
+    "Status": true,
+    "Values": {
+      "EspColor": -65536,
+      "Mobs": true,
+      "Animals": true,
+      "Invisibles": true,
+      "players": true,
+      "villagers": true,
+      "glowESP": false,
+      "real2D": true,
+      "real2DFillBlur": false,
+      "real2DItems": false,
+      "outlineESP": false,
+      "skeletalESP": false,
+      "glowESPChests": true,
+      "GlowSeperate": false,
+      "GlowRadius": 2.0,
+      "GlowSigma": 2.0,
+      "GlowAlpha": 0.2
+    }
+  },
+  "Fullbright": {
+    "Status": true,
+    "Values": {}
+  },
+  "Nametags": {
+    "Status": true,
+    "Values": {}
+  },
+  "SpeedGraph": {
+    "Status": true,
+    "Values": {}
+  },
+  "TargetHUD": {
+    "Status": true,
+    "Values": {
+      "TargetHUDMode": "Middle"
+    }
+  },
+  "WorldTime": {
+    "Status": true,
+    "Values": {
+      "time": 23650.0
+    }
+  },
+  "FastPlace": {
+    "Status": false,
+    "Values": {
+      "Delay": 0.0
+    }
+  }
+}
